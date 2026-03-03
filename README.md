@@ -12,5 +12,8 @@ code .
 pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License 
 MIT
+[Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
+![Kodluyoruz Logo]
+(https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdo wn-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 
